@@ -1,11 +1,11 @@
-Assorted Blog Posts 
-====================
+# Blog Posts
 
-Just a few blog posts I've worked on in the past. 
+Assorted blog posts.  
 
-Goals
------
+## Todo
 
-1) Create some automation scripts for easy tumblr uploading
+1. set up jekyll
+2. set up dns 
+3. public/private posts
 
 
