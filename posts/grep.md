@@ -4,12 +4,14 @@ Grep is one of the most powerful tools at your terminal's disposal. Grep is incr
 
 <img src='grep.png' height=305 width=574 style='margin-left:20px;' />
 
-Most developers have used grep for sifting through output with commands like these.
+Most developers have used grep for sifting through output with commands like these:
 ~~~ bash
 $ cat file.log | grep "some value"
 
 $ ls | grep file.txt
 ~~~
+
+Grep is much more capable than meets the eye, however.
 
 ## Common Commands  
 
@@ -152,5 +154,11 @@ $ grep -B 1 'matched line' grep.txt
 line above
 matched line
 ~~~
+
+## Further Reading
+
+* todo
+* todo
+* todo
 
 
